@@ -91,8 +91,8 @@ const Craft = () => {
         </div>
 
         <section> 
-            <div className="h-[500px] bg-black/30 mt-36 py-10 "> 
-                <h1 className="font-['Manrope] font-bold lg:text-[80px] text-5xl text-center"> 
+            <div className="g:h-[500px] py-4 bg-black/30 mt-36 lg:py-10 "> 
+                <h1 className="font-['Manrope] font-bold lg:text-[80px] text-3xl text-center"> 
                 Exceptional Creative Services
                 </h1>
                 <p className="text-[16px] mx-auto w-[90%] font-medium text-center mt-8 lg:mt-4">
